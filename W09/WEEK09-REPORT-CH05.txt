@@ -1,0 +1,28 @@
+
+mkdir: created directory '/home/AlifHazairin/git'
+mkdir: created directory '/home/AlifHazairin/git/os211quiz'
+mkdir: created directory '/home/AlifHazairin/git/os211quiz/SandBox'
+mkdir: created directory '/home/AlifHazairin/git/os211quiz/SandBox/W09'
+mkdir: created directory '/home/AlifHazairin/git/os211quiz/SandBox/W09/W09/'
+ZCZC ===== Chapter 05 =====  Week 09 =====
+ZCZC pwd /home/AlifHazairin/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-1040
+ZCZC hostname osp
+ZCZC username AlifHazairin
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  758M      /mnt/lfs/sources/
+ZCZC verifyTokenn AlifHazairinW09 AlifHazairin 4021-0D46 Verified
+ZCZC MaxLFS 809M
+ZCZC MaxROOT 1730M
+ZCZC MaxMemory 106M
+ZCZC MaxSwap 0M
+ZCZC verifyTokenn AlifHazairinW09 AlifHazairin 4124-6573 Verified
+ZCZC verifyTokenn AlifHazairinW09 AlifHazairin 4225-C566 Verified
+ZCZC verifyTokenn AlifHazairinW09 AlifHazairin 4327-4679 Verified
+ZCZC verifyTokenn AlifHazairinW09 AlifHazairin 4428-500F Verified
+ZCZC verifyTokenn AlifHazairinW09 AlifHazairin 4530-6FC0 Verified
+ZCZC MaxMemory 109M
+ZCZC verifyTokenn AlifHazairinW09 AlifHazairin 4632-C09C Verified
+ZCZC verifyTokenn AlifHazairinW09 AlifHazairin 4734-6CA5 Verified

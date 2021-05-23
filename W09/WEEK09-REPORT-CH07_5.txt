@@ -1,0 +1,23 @@
+
+ZCZC ===== Chapter 07_5 =====  Week 09 =====
+ZCZC pwd /home/AlifHazairin/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-2115
+ZCZC hostname osp
+ZCZC username AlifHazairin
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M      /mnt/lfs/sources/
+ZCZC verifyTokenn AlifHazairinW09 AlifHazairin 1544-1706 Verified
+ZCZC MaxLFS 615M
+ZCZC MaxROOT 1730M
+ZCZC MaxMemory 108M
+ZCZC MaxSwap 0M
+ZCZC verifyTokenn AlifHazairinW09 AlifHazairin 1646-77D1 Verified
+ZCZC verifyTokenn AlifHazairinW09 AlifHazairin 1748-D009 Verified
+ZCZC verifyTokenn AlifHazairinW09 AlifHazairin 1849-2EE2 Verified
+ZCZC MaxMemory 109M
+ZCZC verifyTokenn AlifHazairinW09 AlifHazairin 1951-6EB9 Verified
+ZCZC verifyTokenn AlifHazairinW09 AlifHazairin 2053-1AAB Verified
+ZCZC verifyTokenn AlifHazairinW09 AlifHazairin 2155-CD16 Verified
+
