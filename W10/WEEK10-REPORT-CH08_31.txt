@@ -1,0 +1,95 @@
+ZCZC ===== Chapter 08_31 =====  Week 10 =====
+ZCZC pwd /home/AlifHazairin/git/os211quiz/SandBox/W10/W10
+ZCZC date 210529-2338
+ZCZC hostname sunnysani
+ZCZC username AlifHazairin
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  1.7G      /mnt/lfs/sources/
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 3854-BCE5 Verified
+ZCZC MaxLFS 3744M
+ZCZC MaxROOT 4342M
+ZCZC MaxMemory 109M
+ZCZC MaxSwap 0M
+ZCZC MaxLFS 3874M
+ZCZC MaxMemory 110M
+ZCZC MaxMemory 111M
+ZCZC MaxMemory 115M
+ZCZC MaxMemory 116M
+ZCZC MaxLFS 3875M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 3957-83EC Verified
+ZCZC MaxLFS 3876M
+ZCZC MaxMemory 308M
+ZCZC MaxLFS 3877M
+ZCZC MaxMemory 376M
+ZCZC MaxLFS 3888M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 4058-9D4C Verified
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 4200-8B46 Verified
+ZCZC MaxMemory 380M
+ZCZC MaxLFS 3891M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 4301-6D35 Verified
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 4403-8CB3 Verified
+ZCZC MaxLFS 3892M
+ZCZC MaxLFS 3893M
+ZCZC MaxLFS 3898M
+ZCZC MaxLFS 3901M
+ZCZC MaxLFS 3902M
+ZCZC MaxLFS 3903M
+ZCZC MaxLFS 3905M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 4505-6F26 Verified
+ZCZC MaxLFS 3906M
+ZCZC MaxLFS 3908M
+ZCZC MaxLFS 3910M
+ZCZC MaxLFS 3917M
+ZCZC MaxLFS 3918M
+ZCZC MaxLFS 3919M
+ZCZC MaxLFS 3920M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 4607-A48A Verified
+ZCZC MaxLFS 3921M
+ZCZC MaxLFS 3923M
+ZCZC MaxLFS 3924M
+ZCZC MaxLFS 3925M
+ZCZC MaxLFS 3926M
+ZCZC MaxLFS 3929M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 4708-D23C Verified
+ZCZC MaxLFS 3931M
+ZCZC MaxLFS 3932M
+ZCZC MaxLFS 3933M
+ZCZC MaxLFS 3934M
+ZCZC MaxLFS 3937M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 4810-345C Verified
+ZCZC MaxLFS 3938M
+ZCZC MaxLFS 3939M
+ZCZC MaxLFS 3941M
+ZCZC MaxLFS 3944M
+ZCZC MaxLFS 3945M
+ZCZC MaxLFS 3946M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 4912-C55A Verified
+ZCZC MaxLFS 3947M
+ZCZC MaxLFS 3948M
+ZCZC MaxLFS 3950M
+ZCZC MaxLFS 3952M
+ZCZC MaxLFS 3954M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 5014-577B Verified
+ZCZC MaxLFS 3957M
+ZCZC MaxLFS 3958M
+ZCZC MaxLFS 3960M
+ZCZC MaxLFS 3963M
+ZCZC MaxLFS 3965M
+ZCZC MaxLFS 3968M
+ZCZC MaxLFS 3969M
+ZCZC MaxLFS 3985M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 5117-C630 Verified
+ZCZC MaxLFS 3989M
+ZCZC MaxLFS 3992M
+ZCZC MaxLFS 3994M
+ZCZC MaxLFS 3996M
+ZCZC MaxMemory 381M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 5218-822D Verified
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 5320-1CB6 Verified
+ZCZC MaxMemory 456M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 5423-2186 Verified
+ZCZC MaxMemory 473M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 5526-ACC8 Verified
+ZCZC MaxMemory 507M

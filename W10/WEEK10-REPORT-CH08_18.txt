@@ -1,0 +1,19 @@
+ZCZC ===== Chapter 08_18 =====  Week 10 =====
+ZCZC pwd /home/AlifHazairin/git/os211quiz/SandBox/W10/W10
+ZCZC date 210529-2257
+ZCZC hostname sunnysani
+ZCZC username AlifHazairin
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  1.3G      /mnt/lfs/sources/
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 5759-E9DE Verified
+ZCZC MaxLFS 3406M
+ZCZC MaxROOT 4342M
+ZCZC MaxMemory 89M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 90M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 5902-068A Verified
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 0004-8A2F Verified
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 0105-1E42 Verified
+

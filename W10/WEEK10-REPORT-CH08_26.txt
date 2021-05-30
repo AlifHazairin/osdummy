@@ -1,0 +1,38 @@
+ZCZC ===== Chapter 08_26 =====  Week 10 =====
+ZCZC pwd /home/AlifHazairin/git/os211quiz/SandBox/W10/W10
+ZCZC date 210529-2327
+ZCZC hostname sunnysani
+ZCZC username AlifHazairin
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  1.7G      /mnt/lfs/sources/
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 2705-7622 Verified
+ZCZC MaxLFS 3740M
+ZCZC MaxROOT 4342M
+ZCZC MaxMemory 107M
+ZCZC MaxSwap 0M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 2808-CC9F Verified
+ZCZC MaxLFS 3746M
+ZCZC MaxMemory 114M
+ZCZC MaxLFS 3866M
+ZCZC MaxMemory 174M
+ZCZC MaxLFS 4025M
+ZCZC MaxLFS 4126M
+ZCZC MaxMemory 175M
+ZCZC MaxLFS 4222M
+ZCZC MaxMemory 177M
+ZCZC MaxLFS 4310M
+ZCZC MaxMemory 179M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 2909-D7C2 Verified
+ZCZC MaxLFS 4521M
+ZCZC MaxLFS 4619M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 3011-9B97 Verified
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 3112-5484 Verified
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 3214-4631 Verified
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 3315-1840 Verified
+ZCZC MaxMemory 193M
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 3418-3FCC Verified
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 3519-CE2A Verified
+ZCZC verifyTokenn AlifHazairinW10 AlifHazairin 3621-EB28 Verified
+
