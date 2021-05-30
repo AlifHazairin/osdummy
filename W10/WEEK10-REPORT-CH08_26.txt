@@ -1,7 +1,7 @@
 ZCZC ===== Chapter 08_26 =====  Week 10 =====
 ZCZC pwd /home/AlifHazairin/git/os211quiz/SandBox/W10/W10
 ZCZC date 210529-2327
-ZCZC hostname sunnysani
+ZCZC hostname AlifHazairin
 ZCZC username AlifHazairin
 ZCZC Please Wait...
 ZCZC okSources 84
